@@ -1,0 +1,14 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "Project to test buger eats app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Ginatoria Chambe",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.4"
+  }
+}
