@@ -1,4 +1,5 @@
 {
+    "projectId": "qmozyr",
     "viewportWidth": 1000,
     "viewportHeight": 600,
     "baseUrl":"https://buger-eats-qa.vercel.app/"
