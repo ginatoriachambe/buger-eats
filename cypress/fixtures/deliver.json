@@ -1,0 +1,52 @@
+{
+    "signup":{
+        "name": "Ginatoria Chambe",
+        "cpf": "00000014141",
+        "email": "ginatoria@email.com",
+        "whatsapp": "00124578963",
+        "address": {
+            "postal_code": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_uf": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv":{
+        "name": "Ginaty Carol",
+        "cpf": "000000141AA",
+        "email": "ginatycarol@email.com",
+        "whatsapp": "00987578963",
+        "address": {
+            "postal_code": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_uf": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv":{
+        "name": "Carol Chambe",
+        "cpf": "00000014141",
+        "email": "ginatycarol.email.com",
+        "whatsapp": "00987578963",
+        "address": {
+            "postal_code": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_uf": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
