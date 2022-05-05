@@ -15,6 +15,7 @@ After successfully completing the course, today I can create more organized proj
 ## Pre requisites to run my tests:
  1. Have NodeJs installed
  2. Have Cypress installed
+ 3. The webapp page you can find here [BugerEats WebApp](https://buger-eats-qa.vercel.app/)
 
 ## How to run my tests locally
 1. Download the source code and run this command to install all the dependencies:
